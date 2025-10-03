@@ -1,6 +1,14 @@
 # I'm [Devraj Rajput](https://github.com/devraj27dec)👋
 # A passionate Full Stack developer
-<img align ="right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align ="right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+
+## 👨‍💻 About Me  
+  - 🔭 I’m currently working on **Full Stack Web Development Projects** and seeking opportunities as a Software Engineer / Full Stack Developer
+  - 🌱 Learning and exploring **Next.js, FastAPI, and Cloud Deployments**  
+  - 💡 Interested in **building scalable applications & solving real-world problems**  
+  - 💬 Ask me about **React, Next.js, Node.js, Python, FastAPI, SQL, MongoDB**  
+  - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/devraj-rajput)** or **[Email](mailto:devrajrajput414@gmail.com)**  
+---
 
 
 
