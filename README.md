@@ -6,7 +6,7 @@
   - 🔭 I’m currently working on **Full Stack Web Development Projects** and seeking opportunities as a Software Engineer / Full Stack Developer
   - 🌱 Learning and exploring **Next.js, FastAPI, and Cloud Deployments**  
   - 💡 Interested in **building scalable applications & solving real-world problems**  
-  - 💬 Ask me about **React, Next.js, Node.js, Python, FastAPI, SQL, MongoDB**  
+  - 💬 Ask me about **React, Next.js, Node.js, Express, Python, FastAPI, SQL, MongoDB , Postgresql , Mysql**  
   - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/devraj-rajput)** or **[Email](mailto:devrajrajput414@gmail.com)**  
 ---
 
